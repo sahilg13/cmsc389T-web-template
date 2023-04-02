@@ -1,15 +1,7 @@
 # cmsc388T-web-template
 
-## Color Family
-Light yellow: #FAF8D4
+## GitHub Pages Site Link
+[https://sahilg13.github.io/cmsc389T-web-template/]
 
-Almond: #EBDCCB
-
-Dun: #C3BAAA
-
-Taupe Gray: #91818A
-
-Rose quartz: #B2A3B5
-
-## CSS
-.img -> where you can adjust image size
+## Custom Changes
+I changed the style by changing the color scheme to a blue color pallete.

@@ -188,7 +188,7 @@ h3 {
 
 /* Add an active class to highlight the current page */
 .topnav a.active {
-  background-color: #878C8F;
+  background-color: #D0EFFF;
   color: white;
 }
 

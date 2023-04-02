@@ -1,4 +1,4 @@
-# cmsc388T-web-template
+# cmsc389T-web-template
 
 ## GitHub Pages Site Link
 https://sahilg13.github.io/cmsc389T-web-template/
